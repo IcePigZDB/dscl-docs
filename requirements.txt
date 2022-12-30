@@ -7,3 +7,5 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.4
 myst-parser==0.14.0
+jinja2==2.10.1
+markupsafe==1.1.1
